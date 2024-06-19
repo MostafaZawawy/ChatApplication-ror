@@ -10,8 +10,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <ChatApplication>
+   git clone https://github.com/MostafaZawawy/ChatApplication-ror
+   cd ChatApplication
 
 2. Configure Environment Variables
 Ensure that you have a .env file in the root of your project with the necessary environment variables. Create a .env file if it doesn't exist and add the following variables:
